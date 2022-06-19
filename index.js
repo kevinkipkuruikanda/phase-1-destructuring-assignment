@@ -1,4 +1,4 @@
-Amals = 'cow horse sheep pig chicken';
+const FarmAnimals = 'cow horse sheep pig chicken';
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
@@ -22,6 +22,6 @@ const nestedMuppet = {
     }
   }
   
-  nestedName:'Host of The Muppet Show',
-  nestedPartner: 'Miss Piggy',
+nestedMuppet:'Cast member of The Muppet Show'
+nestedName: 'Miss Piggy',
 },
